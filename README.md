@@ -1,15 +1,19 @@
 # Lógica de Programação em Java
 
-Este repositório reúne exercícios, exemplos e pequenos projetos desenvolvidos em linguagem Java, voltados para o estudo e prática da lógica de programação. O objetivo é fortalecer conceitos básicos e intermediários como:
+Repositório com exercícios, exemplos e anotações sobre lógica de programação utilizando a linguagem Java. Este espaço serve para organizar meus estudos e compartilhar códigos práticos que ajudam no aprendizado da programação.
 
-- Estruturas de controle (if, else, switch, loops)
-- Métodos e classes
-- Manipulação de arrays e coleções
-- Entrada e saída de dados
-- Operações matemáticas e lógicas
-- Tratamento de exceções básicas
-- Exercícios práticos para fixação dos conceitos
+## Conteúdo
 
-Ideal para estudantes e programadores iniciantes que querem construir uma base sólida em lógica de programação com Java, preparando-se para projetos mais complexos e desenvolvimento de sistemas.
+- Exercícios de lógica básicos e intermediários
+- Estruturas condicionais (if, switch)
+- Laços de repetição (for, while, do-while)
+- Manipulação de variáveis e tipos de dados
+- Funções e métodos
+- Introdução à Programação Orientada a Objetos (POO)
+- Pequenos projetos para fixar conceitos
 
-Sinta-se à vontade para explorar o código, testar os exercícios e contribuir com melhorias!
+## Objetivo
+
+- Registrar e organizar meus estudos em Java
+- Aprimorar o raciocínio lógico e técnicas de programação
+- Criar uma base sólida para futuros projetos e desenvolvimento de sistemas
